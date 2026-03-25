@@ -1,8 +1,11 @@
-Douglas, Jorge Henrique, Gustavo, Vicente
+**Douglas**  
+**Jorge Henrique**  
+**Gustavo**  
+**Vicente**  
 
 ---  
 
-## Site para divulgação e comércio para uma associação de produtores de café
+# Site para divulgação e comércio para uma associação de produtores de café
 
 1. Como associação, quero que o site tenha uma página de venda, para fortalecer nossas vendas.
 
