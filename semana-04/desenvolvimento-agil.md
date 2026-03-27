@@ -19,3 +19,4 @@ A ideia de Histórias do Usuário foi desenvolvida para formar cenários de uso 
 sempre que possível o cliente trabalha em colaboração com o time de desenvolvimento. 
 Tem a intenção de identificar funcionalidades essenciais que possam ser implementadas em duas semanas Seu principal problema é a completude, 
 nem sempre as histórias desenvolvidas são suficientes para cobrir todos os requisitos do sistema.
+---
