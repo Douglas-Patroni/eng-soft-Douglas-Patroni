@@ -1,6 +1,6 @@
 Segundo Sommerville, o Modelo Espiral é um modelo orientado a riscos, ou seja, esse modelo exige que a cada volta, exista uma etapa para identificar e avaliar riscos,
 assim, usando a Espiral eles teriam identificado esses problemas no primeiro ciclo, e testado em protótipos para evitar a queda dos drones.
-
+---
 Modelo Espiral:
 
 1. Definir Objetivos:                                    |      2. Avaliar Riscos:
