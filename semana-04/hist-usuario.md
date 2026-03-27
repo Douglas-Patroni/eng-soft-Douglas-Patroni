@@ -1,6 +1,6 @@
-Douglas Patroni, Jorge Henrique
+# Douglas Patroni, Jorge Henrique
 
--------------------------------------------------------------------------------------------------------
+---
 
 01 - Como aluno, desejo visualizar o cardápio com preços atualizados, para decidir previamente o que pedirei.
 
