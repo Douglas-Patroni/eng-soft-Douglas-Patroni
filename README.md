@@ -17,7 +17,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará todas as minhas entregas, 
 
 Clique nos links abaixo para acessar os arquivos de cada semana:
 
-* 📄 [Semana 01)](./semana-01)
+* 📄 [Semana 01](./semana-01)
 * 📄 [Semana 02 (Proposta Software](./semana-02)
 * 📄 [Semana 03 (Chaos-IT)](./semana-03)
 * 📄 [Semana 04 (Desenvolvimento Ágil e História Usuário)](./semana-04)
