@@ -1,4 +1,4 @@
-# Link da conversa
+# Conversa com o cliente
 
 ### Eu
 Boa noite, tudo bem? Meu nome é Douglas, queria entender qual o seu problema e como um software pode te ajudar.  
@@ -140,7 +140,7 @@ Boa sorte com o trabalho e até breve!
 
 ---
 
-## História do usuário
+# História do usuário
 
 1- Como usuário, desejo que o sistema possua um mapa, para ver os quartos ocupados.  
 2- Como usuário, quero que o sistema tenha campo para cadastro com CPF, nome e telefone, para facilitar encontrar os hóspedes.  
@@ -149,7 +149,7 @@ Boa sorte com o trabalho e até breve!
 5- Como usuário, quero que o sistema avise quando um quarto desocupe, para começar a limpeza rapidamente.  
 6- Como usuário, gostaria que o sistema me apresentasse um resumo do mês, para verificar o lucro e prejuízo.  
 
-## Requisitos Funcionais
+# Requisitos Funcionais
 
 RF01 - O sistema deve fornecer uma interface visual que indique, em tempo real quais quartos estão ocupados (vermelho), e quais estão desocupados (verde).  
 RF02 - O sistema deve permitir o cadastro de hóspedes com os seguintes campos obrigatórios: CPF, nome, telefone.  
