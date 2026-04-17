@@ -23,8 +23,8 @@ Clique nos links abaixo para acessar os arquivos de cada semana:
 * 📄 [Semana 04 - Desenvolvimento Ágil e História Usuário](./semana-04)
 * 📄 [Semana 05 - História Usuário](./semana-05)
 * 📄 [Semana 06 - Requisitos Funcionais e Conversa com Cliente](./semana-06)
-<!-- * 📄 [Semana 07](./semana-07) -->
-<!-- * 📄 [Semana 08](./semana-08) -->
+* 📄 [Semana 07](./semana-07)
+* 📄 [Semana 08  - Conversa Funcionalidades e Documento Requisito](./semana-08)
 <!-- * 📄 [Semana 09](./semana-09) -->
 <!-- * 📄 [Semana 10](./semana-10) -->
 <!-- * 📄 [Semana 11](./semana-11) -->
